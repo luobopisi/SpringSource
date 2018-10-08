@@ -1,0 +1,5 @@
+委派模式
+代理的特殊情况，全权代理
+应用场景：项目经理、Dispatcher
+代码场景：Spring中的ServletDispatcher、Spring中Delegate命名结尾的都是委派模式
+干活是你的（普通员工），功劳是我的（项目经理）

@@ -1,0 +1,6 @@
+模板方法
+流程固定，某一个环节有差异
+应用场景：JdbcTemplate、工作流
+代码场景：模拟Spring JdbcTemplage的简单实现
+spring-orm,单表操作不需要写一句SQL
+流程标准化，原料自己加
